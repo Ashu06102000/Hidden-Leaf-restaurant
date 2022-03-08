@@ -1,0 +1,7 @@
+.banner{
+    background-image:  linear-gradient(180deg, rgba(0, 0, 0, .35) 20%, rgba(0, 0, 0, .16)),url("../image/main.jpg");
+background-attachment:fixed ;
+    background-position: 0px 0px, 50% 50%;
+    background-size: auto, cover;
+    background-repeat: repeat, no-repeat;
+}

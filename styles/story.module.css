@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Marck+Script&display=swap');
+.curve{
+    font-family: 'Marck Script', cursive;
+    font-size: 4em;
+    color:brown;
+}
+@media(max-width:991px){
+.curve{
+    font-size: 3em;
+}
+}

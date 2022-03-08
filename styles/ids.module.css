@@ -1,0 +1,11 @@
+.ids{
+    font-size:4em;
+    font-family: 'Marck Script', cursive;
+    color: brown;
+  
+}
+@media(max-width:600){
+    .ids{
+        font-size: 2em;
+    }
+}
